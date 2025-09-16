@@ -13,6 +13,6 @@ My previous projects span scientific computing and research applications:
 
 - A **C++ application for medical image registration** using ITK (Insight Toolkit).  
 - A **MATLAB tool with Marching Cubes** for tracing carotid arteries in stroke patients via CT Angiography.  
-- A **control system for an LED solar simulator** supporting research in medical physics and imaging.  
+- A **control system for an LED solar simulator** supporting research in solar panel technology.  
 
 I combine a background in **medical physics, scientific programming, and AV production** with current work in **data-driven application design** — aiming to deliver tools that are technically rigorous, reliable, and user-focused.
